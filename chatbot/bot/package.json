@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Momanyi",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "discord.js": "^12.0.2"
+  }
+}
